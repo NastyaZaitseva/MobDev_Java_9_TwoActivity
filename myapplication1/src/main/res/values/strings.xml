@@ -3,4 +3,11 @@
     <string name="text_1">Вы на первой странице</string>
     <string name="next">Вперед</string>
     <string name="back">Назад</string>
+    <string name="text_2">Вы на второй странице</string>
+    <string name="text_3">Вы на третьей странице</string>
+    <string name="text_4">Вы на четвертой странице</string>
+    <string name="page1">Первая страница</string>
+    <string name="page2">Вторая страница</string>
+    <string name="page3">Третья страница</string>
+    <string name="page4">Четвертая страница</string>
 </resources>
