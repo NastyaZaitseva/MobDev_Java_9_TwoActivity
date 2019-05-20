@@ -47,18 +47,22 @@ public class MainActivity3 extends AppCompatActivity implements View.OnClickList
         switch (id){
             case R.id.page_1:
                 Intent intent=new Intent(this, MainActivity.class);
+                intent.putExtra("username", "Имя");
                 startActivity(intent);
                 break;
             case R.id.page_2:
                 Intent intent2=new Intent(this, MainActivity1.class);
+                intent2.putExtra("username", "Имя");
                 startActivity(intent2);
                 break;
             case R.id.page_3:
                 Intent intent3=new Intent(this, MainActivity2.class);
+                intent3.putExtra("username", "Имя");
                 startActivity(intent3);
                 break;
             case R.id.page_4:
                 Intent intent4=new Intent(this, MainActivity3.class);
+                intent4.putExtra("username", "Имя");
                 startActivity(intent4);
                 break;
 

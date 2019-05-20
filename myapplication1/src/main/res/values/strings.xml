@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Первое задание</string>
+    <string name="app_name">Лабораторная 1.8</string>
     <string name="text_1">Вы на первой странице</string>
     <string name="next">Вперед</string>
     <string name="back">Назад</string>
@@ -10,4 +10,7 @@
     <string name="page2">Вторая страница</string>
     <string name="page3">Третья страница</string>
     <string name="page4">Четвертая страница</string>
+    <string name="enter_your_name">Введите свое имя:</string>
+    <string name="not_name">Вы не сохранили свое имя.</string>
+    <string name="save_name">Сохранить имя</string>
 </resources>
